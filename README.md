@@ -1,3 +1,3 @@
 # MovieAppData
 
-Containes mocked data for iOS-course.
+Contains mocked data for iOS-course.
