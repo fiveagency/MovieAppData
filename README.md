@@ -1,3 +1,3 @@
 # MovieAppData
 
-A description of this package.
+Containes mocked data for iOS-course.
