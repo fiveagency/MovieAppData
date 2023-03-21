@@ -8,6 +8,8 @@ public protocol MovieUseCaseProtocol {
 
 public class MovieUseCase: MovieUseCaseProtocol {
 
+    public init() {}
+
     public func getDetails(id: Int) -> MovieDetailsModel? {
         guard id == 111161 else { return nil }
 
