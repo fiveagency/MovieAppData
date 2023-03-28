@@ -15,7 +15,8 @@ let package = Package(
     targets: [
         .target(
             name: "MovieAppData",
-            dependencies: []),
+            dependencies: [],
+            resources: [.process("Resources")]),
         .testTarget(
             name: "MovieAppDataTests",
             dependencies: ["MovieAppData"]),

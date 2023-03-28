@@ -2,39 +2,71 @@ import Foundation
 
 public protocol MovieUseCaseProtocol {
 
+    var allMovies: [MovieModel] { get }
+
+    var popularMovies: [MovieModel] { get }
+
+    var freeToWatchMovies: [MovieModel] { get }
+
+    var trendingMovies: [MovieModel] { get }
+
     func getDetails(id: Int) -> MovieDetailsModel?
 
 }
 
 public class MovieUseCase: MovieUseCaseProtocol {
 
-    public init() {}
+    private let dataSource = MovieDataSource()
+
+    public init() { }
+
+    public var allMovies: [MovieModel] {
+        dataSource
+            .movies
+            .map { $0.useCaseModel.summaryModel }
+    }
+
+    public var popularMovies: [MovieModel] {
+        dataSource
+            .movies
+            .filter { $0.tags.contains(.streaming) || $0.tags.contains(.onTv) || $0.tags.contains(.forRent) || $0.tags.contains(.inTheaters)}
+            .map { $0.useCaseModel.summaryModel }
+    }
+
+    public var freeToWatchMovies: [MovieModel] {
+        dataSource
+            .movies
+            .filter { $0.tags.contains(.movie) || $0.tags.contains(.tvShow)}
+            .map { $0.useCaseModel.summaryModel }
+    }
+
+    public var trendingMovies: [MovieModel] {
+        dataSource
+            .movies
+            .filter { $0.tags.contains(.trendingToday) || $0.tags.contains(.trendingThisWeek) }
+            .map { $0.useCaseModel.summaryModel }
+    }
 
     public func getDetails(id: Int) -> MovieDetailsModel? {
-        guard id == 111161 else { return nil }
-
-        return MovieDetailsModel(
-            id: 111161,
-            name: "The Shawshank Redemption",
-            summary: "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-            imageUrl: "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-            releaseDate: "1994-09-13",
-            year: 1994,
-            duration: 142,
-            rating: 9.3,
-            categories: [.drama],
-            crewMembers: [
-                MovieCrewMemberModel(name: "Frank Darabont", role: "Director"),
-                MovieCrewMemberModel(name: "Tim Robbins", role: "Actor"),
-                MovieCrewMemberModel(name: "Morgan Freeman", role: "Actor"),
-                MovieCrewMemberModel(name: "Bob Gunton", role: "Actor"),
-                MovieCrewMemberModel(name: "William Sadler", role: "Actor"),
-            ])
+        dataSource
+            .movies
+            .first(where: { $0.id == id })?
+            .useCaseModel
     }
 
 }
 
-public struct MovieDetailsModel {
+
+public struct MovieModel {
+
+    public let id: Int
+    public let name: String
+    public let summary: String
+    public let imageUrl: String
+
+}
+
+public struct MovieDetailsModel: Equatable {
     
     public let id: Int
     public let name: String
@@ -49,14 +81,14 @@ public struct MovieDetailsModel {
 
 }
 
-public struct MovieCrewMemberModel {
+public struct MovieCrewMemberModel: Equatable {
 
     public let name: String
     public let role: String
 
 }
 
-public enum MovieCategoryModel {
+public enum MovieCategoryModel: Equatable {
 
     case action
     case adventure
@@ -68,5 +100,67 @@ public enum MovieCategoryModel {
     case scienceFiction
     case thriller
     case western
+
+}
+
+private extension MovieDataModel {
+
+    var useCaseModel: MovieDetailsModel {
+        MovieDetailsModel(
+            id: id,
+            name: name,
+            summary: summary,
+            imageUrl: imageUrl,
+            releaseDate: "\(releaseDate.year)-\(releaseDate.month)-\(releaseDate.day)",
+            year: year,
+            duration: duration,
+            rating: rating,
+            categories: categories.map { $0.useCaseModel },
+            crewMembers: crewMembers.map { $0.useCaseModel })
+    }
+}
+
+private extension MovieDetailsModel {
+
+    var summaryModel: MovieModel {
+        MovieModel(id: id, name: name, summary: summary, imageUrl: imageUrl)
+    }
+
+}
+
+private extension MovieCrewMemberDataModel {
+
+    var useCaseModel: MovieCrewMemberModel {
+        MovieCrewMemberModel(name: name, role: role)
+    }
+
+}
+
+private extension MovieCategoryDataModel {
+
+    var useCaseModel: MovieCategoryModel {
+        switch self {
+        case .action:
+            return .action
+        case .adventure:
+            return .adventure
+        case .comedy:
+            return .comedy
+        case .crime:
+            return .crime
+        case .drama:
+            return .drama
+        case .fantasy:
+            return .fantasy
+        case .romance:
+            return .romance
+        case .scienceFiction:
+            return .scienceFiction
+        case .thriller:
+            return .thriller
+        case .western:
+            return .western
+        }
+    }
 
 }

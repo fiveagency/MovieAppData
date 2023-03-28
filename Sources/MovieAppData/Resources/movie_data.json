@@ -1,0 +1,2228 @@
+[
+    {
+        "id": 111161,
+        "name": "The Shawshank Redemption",
+        "year": 1994,
+        "duration": 142,
+        "releaseDate": {
+            "year": 1994,
+            "month": 9,
+            "day": 13
+        },
+        "rating": 9.3,
+        "summary": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Frank Darabont",
+                "role": "Director"
+            },
+            {
+                "name": "Tim Robbins",
+                "role": "Actor"
+            },
+            {
+                "name": "Morgan Freeman",
+                "role": "Actor"
+            },
+            {
+                "name": "Bob Gunton",
+                "role": "Actor"
+            },
+            {
+                "name": "William Sadler",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "IN_THEATERS"
+        ]
+    },
+    {
+        "id": 68646,
+        "name": "The Godfather",
+        "year": 1972,
+        "duration": 175,
+        "releaseDate": {
+            "year": 1972,
+            "month": 3,
+            "day": 14
+        },
+        "rating": 9.2,
+        "summary": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "CRIME",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Francis Ford Coppola",
+                "role": "Director"
+            },
+            {
+                "name": "Marlon Brando",
+                "role": "Actor"
+            },
+            {
+                "name": "Al Pacino",
+                "role": "Actor"
+            },
+            {
+                "name": "James Caan",
+                "role": "Actor"
+            },
+            {
+                "name": "Diane Keaton",
+                "role": "Actress"
+            }
+        ],
+        "tags": [
+            "ON_TV",
+            "IN_THEATERS",
+            "TRENDING_THIS_WEEK"
+        ]
+    },
+    {
+        "id": 468569,
+        "name": "The Dark Knight",
+        "year": 2008,
+        "duration": 152,
+        "releaseDate": {
+            "year": 2008,
+            "month": 7,
+            "day": 14
+        },
+        "rating": 9.0,
+        "summary": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ACTION",
+            "CRIME",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Christopher Nolan",
+                "role": "Director"
+            },
+            {
+                "name": "Christian Bale",
+                "role": "Actor"
+            },
+            {
+                "name": "Heath Ledger",
+                "role": "Actor"
+            },
+            {
+                "name": "Aaron Eckhart",
+                "role": "Actor"
+            },
+            {
+                "name": "Michael Caine",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "ON_TV",
+            "FOR_RENT",
+            "IN_THEATERS",
+            "TRENDING_TODAY"
+        ]
+    },
+    {
+        "id": 167260,
+        "name": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "duration": 201,
+        "releaseDate": {
+            "year": 2003,
+            "month": 12,
+            "day": 3
+        },
+        "rating": 9.0,
+        "summary": "Gandalf and Aragorn lead the World of Men against Sauron\u0027s army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ACTION",
+            "ADVENTURE",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Peter Jackson",
+                "role": "Director"
+            },
+            {
+                "name": "Elijah Wood",
+                "role": "Actor"
+            },
+            {
+                "name": "Viggo Mortensen",
+                "role": "Actor"
+            },
+            {
+                "name": "Ian McKellen",
+                "role": "Actor"
+            },
+            {
+                "name": "Orlando Bloom",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "FOR_RENT"
+        ]
+    },
+    {
+        "id": 108052,
+        "name": "Schindler\u0027s List",
+        "year": 1993,
+        "duration": 195,
+        "releaseDate": {
+            "year": 1993,
+            "month": 11,
+            "day": 30
+        },
+        "rating": 9.0,
+        "summary": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Steven Spielberg",
+                "role": "Director"
+            },
+            {
+                "name": "Liam Neeson",
+                "role": "Actor"
+            },
+            {
+                "name": "Ralph Fiennes",
+                "role": "Actor"
+            },
+            {
+                "name": "Ben Kingsley",
+                "role": "Actor"
+            },
+            {
+                "name": "Caroline Goodall",
+                "role": "Actress"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "ON_TV"
+        ]
+    },
+    {
+        "id": 71562,
+        "name": "The Godfather Part II",
+        "year": 1974,
+        "duration": 202,
+        "releaseDate": {
+            "year": 1974,
+            "month": 12,
+            "day": 12
+        },
+        "rating": 9.0,
+        "summary": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "CRIME",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Francis Ford Coppola",
+                "role": "Director"
+            },
+            {
+                "name": "Al Pacino",
+                "role": "Actor"
+            },
+            {
+                "name": "Robert De Niro",
+                "role": "Actor"
+            },
+            {
+                "name": "Robert Duvall",
+                "role": "Actor"
+            },
+            {
+                "name": "Diane Keaton",
+                "role": "Actress"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "ON_TV"
+        ]
+    },
+    {
+        "id": 50083,
+        "name": "12 Angry Men",
+        "year": 1957,
+        "duration": 96,
+        "releaseDate": {
+            "year": 1957,
+            "month": 4,
+            "day": 10
+        },
+        "rating": 9.0,
+        "summary": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "CRIME",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Sidney Lumet",
+                "role": "Director"
+            },
+            {
+                "name": "Henry Fonda",
+                "role": "Actor"
+            },
+            {
+                "name": "Lee J. Cobb",
+                "role": "Actor"
+            },
+            {
+                "name": "Martin Balsam",
+                "role": "Actor"
+            },
+            {
+                "name": "John Fiedler",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "ON_TV",
+            "TRENDING_THIS_WEEK"
+        ]
+    },
+    {
+        "id": 110912,
+        "name": "Pulp Fiction",
+        "year": 1994,
+        "duration": 154,
+        "releaseDate": {
+            "year": 1994,
+            "month": 9,
+            "day": 23
+        },
+        "rating": 8.9,
+        "summary": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "CRIME",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Quentin Tarantino",
+                "role": "Director"
+            },
+            {
+                "name": "John Travolta",
+                "role": "Actor"
+            },
+            {
+                "name": "Uma Thurman",
+                "role": "Actress"
+            },
+            {
+                "name": "Samuel L. Jackson",
+                "role": "Actor"
+            },
+            {
+                "name": "Bruce Willis",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "ON_TV",
+            "FOR_RENT",
+            "IN_THEATERS",
+            "TV_SHOW",
+            "TRENDING_THIS_WEEK"
+        ]
+    },
+    {
+        "id": 1375666,
+        "name": "Inception",
+        "year": 2010,
+        "duration": 148,
+        "releaseDate": {
+            "year": 2010,
+            "month": 7,
+            "day": 13
+        },
+        "rating": 8.8,
+        "summary": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ACTION",
+            "ADVENTURE",
+            "SCIENCE_FICTION"
+        ],
+        "crewMembers": [
+            {
+                "name": "Christopher Nolan",
+                "role": "Director"
+            },
+            {
+                "name": "Leonardo DiCaprio",
+                "role": "Actor"
+            },
+            {
+                "name": "Joseph Gordon-Levitt",
+                "role": "Actor"
+            },
+            {
+                "name": "Elliot Page",
+                "role": "Actor"
+            },
+            {
+                "name": "Ken Watanabe",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "TRENDING_TODAY"
+        ]
+    },
+    {
+        "id": 167261,
+        "name": "The Lord of the Rings: The Two Towers",
+        "year": 2002,
+        "duration": 179,
+        "releaseDate": {
+            "year": 2002,
+            "month": 12,
+            "day": 5
+        },
+        "rating": 8.8,
+        "summary": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron\u0027s new ally, Saruman, and his hordes of Isengard.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ACTION",
+            "ADVENTURE",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Peter Jackson",
+                "role": "Director"
+            },
+            {
+                "name": "Elijah Wood",
+                "role": "Actor"
+            },
+            {
+                "name": "Ian McKellen",
+                "role": "Actor"
+            },
+            {
+                "name": "Viggo Mortensen",
+                "role": "Actor"
+            },
+            {
+                "name": "Orlando Bloom",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "ON_TV",
+            "FOR_RENT"
+        ]
+    },
+    {
+        "id": 137523,
+        "name": "Fight Club",
+        "year": 1999,
+        "duration": 139,
+        "releaseDate": {
+            "year": 1999,
+            "month": 9,
+            "day": 21
+        },
+        "rating": 8.8,
+        "summary": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "David Fincher",
+                "role": "Director"
+            },
+            {
+                "name": "Brad Pitt",
+                "role": "Actor"
+            },
+            {
+                "name": "Edward Norton",
+                "role": "Actor"
+            },
+            {
+                "name": "Meat Loaf",
+                "role": "Actor"
+            },
+            {
+                "name": "Zach Grenier",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "TRENDING_THIS_WEEK"
+        ]
+    },
+    {
+        "id": 120737,
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "duration": 178,
+        "releaseDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 13
+        },
+        "rating": 8.8,
+        "summary": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ACTION",
+            "ADVENTURE",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Peter Jackson",
+                "role": "Director"
+            },
+            {
+                "name": "Elijah Wood",
+                "role": "Actor"
+            },
+            {
+                "name": "Ian McKellen",
+                "role": "Actor"
+            },
+            {
+                "name": "Orlando Bloom",
+                "role": "Actor"
+            },
+            {
+                "name": "Sean Bean",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "ON_TV",
+            "IN_THEATERS"
+        ]
+    },
+    {
+        "id": 109830,
+        "name": "Forrest Gump",
+        "year": 1994,
+        "duration": 142,
+        "releaseDate": {
+            "year": 1994,
+            "month": 6,
+            "day": 23
+        },
+        "rating": 8.8,
+        "summary": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "DRAMA",
+            "ROMANCE"
+        ],
+        "crewMembers": [
+            {
+                "name": "Robert Zemeckis",
+                "role": "Director"
+            },
+            {
+                "name": "Tom Hanks",
+                "role": "Actor"
+            },
+            {
+                "name": "Robin Wright",
+                "role": "Actress"
+            },
+            {
+                "name": "Gary Sinise",
+                "role": "Actor"
+            },
+            {
+                "name": "Sally Field",
+                "role": "Actress"
+            }
+        ],
+        "tags": [
+            "STREAMING"
+        ]
+    },
+    {
+        "id": 60196,
+        "name": "The Good, the Bad and the Ugly",
+        "year": 1966,
+        "duration": 178,
+        "releaseDate": {
+            "year": 1967,
+            "month": 12,
+            "day": 29
+        },
+        "rating": 8.8,
+        "summary": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ADVENTURE",
+            "WESTERN"
+        ],
+        "crewMembers": [
+            {
+                "name": "Sergio Leone",
+                "role": "Director"
+            },
+            {
+                "name": "Clint Eastwood",
+                "role": "Actor"
+            },
+            {
+                "name": "Eli Wallach",
+                "role": "Actor"
+            },
+            {
+                "name": "Lee Van Cleef",
+                "role": "Actor"
+            },
+            {
+                "name": "Aldo Giuffrè",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "TRENDING_THIS_WEEK"
+        ]
+    },
+    {
+        "id": 133093,
+        "name": "The Matrix",
+        "year": 1999,
+        "duration": 136,
+        "releaseDate": {
+            "year": 1999,
+            "month": 3,
+            "day": 24
+        },
+        "rating": 8.7,
+        "summary": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ACTION",
+            "SCIENCE_FICTION"
+        ],
+        "crewMembers": [
+            {
+                "name": "Lana Wachowski",
+                "role": "Director"
+            },
+            {
+                "name": "Lilly Wachowski",
+                "role": "Director"
+            },
+            {
+                "name": "Keanu Reeves",
+                "role": "Actor"
+            },
+            {
+                "name": "Laurence Fishburne",
+                "role": "Actor"
+            },
+            {
+                "name": "Carrie-Anne Moss",
+                "role": "Actress"
+            },
+            {
+                "name": "Hugo Weaving",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "FOR_RENT"
+        ]
+    },
+    {
+        "id": 99685,
+        "name": "Goodfellas",
+        "year": 1990,
+        "duration": 145,
+        "releaseDate": {
+            "year": 1990,
+            "month": 9,
+            "day": 17
+        },
+        "rating": 8.7,
+        "summary": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "CRIME",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Martin Scorsese",
+                "role": "Director"
+            },
+            {
+                "name": "Robert De Niro",
+                "role": "Actor"
+            },
+            {
+                "name": "Ray Liotta",
+                "role": "Actor"
+            },
+            {
+                "name": "Joe Pesci",
+                "role": "Actor"
+            },
+            {
+                "name": "Lorraine Bracco",
+                "role": "Actress"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "ON_TV",
+            "FOR_RENT"
+        ]
+    },
+    {
+        "id": 80684,
+        "name": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": 1980,
+        "duration": 124,
+        "releaseDate": {
+            "year": 1980,
+            "month": 5,
+            "day": 17
+        },
+        "rating": 8.7,
+        "summary": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ACTION",
+            "ADVENTURE",
+            "FANTASY"
+        ],
+        "crewMembers": [
+            {
+                "name": "Irvin Kershner",
+                "role": "Director"
+            },
+            {
+                "name": "Mark Hamill",
+                "role": "Actor"
+            },
+            {
+                "name": "Harrison Ford",
+                "role": "Actor"
+            },
+            {
+                "name": "Carrie Fisher",
+                "role": "Actress"
+            },
+            {
+                "name": "Billy Dee Williams",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "FOR_RENT"
+        ]
+    },
+    {
+        "id": 73486,
+        "name": "One Flew Over the Cuckoo\u0027s Nest",
+        "year": 1975,
+        "duration": 133,
+        "releaseDate": {
+            "year": 1975,
+            "month": 11,
+            "day": 19
+        },
+        "rating": 8.7,
+        "summary": "In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Milos Forman",
+                "role": "Director"
+            },
+            {
+                "name": "Jack Nicholson",
+                "role": "Actor"
+            },
+            {
+                "name": "Louise Fletcher",
+                "role": "Actress"
+            },
+            {
+                "name": "Michael Berryman",
+                "role": "Actor"
+            },
+            {
+                "name": "Peter Brocco",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "ON_TV",
+            "IN_THEATERS",
+            "MOVIE"
+        ]
+    },
+    {
+        "id": 816692,
+        "name": "Interstellar",
+        "year": 2014,
+        "duration": 169,
+        "releaseDate": {
+            "year": 2014,
+            "month": 10,
+            "day": 26
+        },
+        "rating": 8.6,
+        "summary": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity\u0027s survival.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ADVENTURE",
+            "DRAMA",
+            "SCIENCE_FICTION"
+        ],
+        "crewMembers": [
+            {
+                "name": "Christopher Nolan",
+                "role": "Director"
+            },
+            {
+                "name": "Matthew McConaughey",
+                "role": "Actor"
+            },
+            {
+                "name": "Anne Hathaway",
+                "role": "Actress"
+            },
+            {
+                "name": "Jessica Chastain",
+                "role": "Actress"
+            },
+            {
+                "name": "Mackenzie Foy",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "TRENDING_THIS_WEEK"
+        ]
+    },
+    {
+        "id": 317248,
+        "name": "City of God",
+        "year": 2002,
+        "duration": 130,
+        "releaseDate": {
+            "year": 2002,
+            "month": 8,
+            "day": 31
+        },
+        "rating": 8.6,
+        "summary": "In the slums of Rio, two kids\u0027 paths diverge as one struggles to become a photographer and the other a kingpin.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "CRIME",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Fernando Meirelles",
+                "role": "Director"
+            },
+            {
+                "name": "Kátia Lund",
+                "role": "Actress"
+            },
+            {
+                "name": "Alexandre Rodrigues",
+                "role": "Actor"
+            },
+            {
+                "name": "Leandro Firmino",
+                "role": "Actor"
+            },
+            {
+                "name": "Matheus Nachtergaele",
+                "role": "Actor"
+            },
+            {
+                "name": "Phellipe Haagensen",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "IN_THEATERS"
+        ]
+    },
+    {
+        "id": 245429,
+        "name": "Spirited Away",
+        "year": 2001,
+        "duration": 125,
+        "releaseDate": {
+            "year": 2002,
+            "month": 4,
+            "day": 20
+        },
+        "rating": 8.6,
+        "summary": "During her family\u0027s move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ADVENTURE"
+        ],
+        "crewMembers": [
+            {
+                "name": "Hayao Miyazaki",
+                "role": "Director"
+            },
+            {
+                "name": "Daveigh Chase",
+                "role": "Actor"
+            },
+            {
+                "name": "Suzanne Pleshette",
+                "role": "Actress"
+            },
+            {
+                "name": "Miyu Irino",
+                "role": "Actor"
+            },
+            {
+                "name": "Rumi Hiiragi",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "ON_TV",
+            "FOR_RENT",
+            "MOVIE",
+            "TRENDING_THIS_WEEK"
+        ]
+    },
+    {
+        "id": 120815,
+        "name": "Saving Private Ryan",
+        "year": 1998,
+        "duration": 169,
+        "releaseDate": {
+            "year": 1998,
+            "month": 7,
+            "day": 21
+        },
+        "rating": 8.6,
+        "summary": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Steven Spielberg",
+                "role": "Director"
+            },
+            {
+                "name": "Tom Hanks",
+                "role": "Actor"
+            },
+            {
+                "name": "Matt Damon",
+                "role": "Actor"
+            },
+            {
+                "name": "Tom Sizemore",
+                "role": "Actor"
+            },
+            {
+                "name": "Edward Burns",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "FOR_RENT",
+            "TRENDING_THIS_WEEK"
+        ]
+    },
+    {
+        "id": 120689,
+        "name": "The Green Mile",
+        "year": 1999,
+        "duration": 189,
+        "releaseDate": {
+            "year": 1999,
+            "month": 12,
+            "day": 6
+        },
+        "rating": 8.6,
+        "summary": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UX67_CR0,0,67,98_AL_.jpg@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "CRIME",
+            "DRAMA",
+            "FANTASY"
+        ],
+        "crewMembers": [
+            {
+                "name": "Frank Darabont",
+                "role": "Director"
+            },
+            {
+                "name": "Tom Hanks",
+                "role": "Actor"
+            },
+            {
+                "name": "Michael Clarke Duncan",
+                "role": "Actor"
+            },
+            {
+                "name": "David Morse",
+                "role": "Actor"
+            },
+            {
+                "name": "Bonnie Hunt",
+                "role": "Actress"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "FOR_RENT",
+            "MOVIE"
+        ]
+    },
+    {
+        "id": 118799,
+        "name": "Life Is Beautiful",
+        "year": 1997,
+        "duration": 116,
+        "releaseDate": {
+            "year": 1998,
+            "month": 10,
+            "day": 22
+        },
+        "rating": 8.6,
+        "summary": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "COMEDY",
+            "DRAMA",
+            "ROMANCE"
+        ],
+        "crewMembers": [
+            {
+                "name": "Roberto Benigni",
+                "role": "Director"
+            },
+            {
+                "name": "Roberto Benigni",
+                "role": "Actor"
+            },
+            {
+                "name": "Nicoletta Braschi",
+                "role": "Actress"
+            },
+            {
+                "name": "Giorgio Cantarini",
+                "role": "Actor"
+            },
+            {
+                "name": "Giustino Durano",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "IN_THEATERS",
+            "MOVIE"
+        ]
+    },
+    {
+        "id": 114369,
+        "name": "Se7en",
+        "year": 1995,
+        "duration": 127,
+        "releaseDate": {
+            "year": 1995,
+            "month": 9,
+            "day": 15
+        },
+        "rating": 8.6,
+        "summary": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "CRIME",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "David Fincher",
+                "role": "Director"
+            },
+            {
+                "name": "Morgan Freeman",
+                "role": "Actor"
+            },
+            {
+                "name": "Brad Pitt",
+                "role": "Actor"
+            },
+            {
+                "name": "Kevin Spacey",
+                "role": "Actor"
+            },
+            {
+                "name": "Andrew Kevin Walker",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "ON_TV",
+            "FOR_RENT",
+            "IN_THEATERS",
+            "MOVIE"
+        ]
+    },
+    {
+        "id": 103064,
+        "name": "Terminator 2: Judgment Day",
+        "year": 1991,
+        "duration": 137,
+        "releaseDate": {
+            "year": 1991,
+            "month": 7,
+            "day": 1
+        },
+        "rating": 8.6,
+        "summary": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her 10-year old adolescent son John from an even more advanced and powerful cyborg.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ACTION",
+            "SCIENCE_FICTION"
+        ],
+        "crewMembers": [
+            {
+                "name": "James Cameron",
+                "role": "Director"
+            },
+            {
+                "name": "Arnold Schwarzenegger",
+                "role": "Actor"
+            },
+            {
+                "name": "Linda Hamilton",
+                "role": "Actress"
+            },
+            {
+                "name": "Edward Furlong",
+                "role": "Actor"
+            },
+            {
+                "name": "Robert Patrick",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "ON_TV",
+            "MOVIE"
+        ]
+    },
+    {
+        "id": 102926,
+        "name": "The Silence of the Lambs",
+        "year": 1991,
+        "duration": 118,
+        "releaseDate": {
+            "year": 1991,
+            "month": 1,
+            "day": 30
+        },
+        "rating": 8.6,
+        "summary": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "CRIME",
+            "DRAMA",
+            "THRILLER"
+        ],
+        "crewMembers": [
+            {
+                "name": "Jonathan Demme",
+                "role": "Director"
+            },
+            {
+                "name": "Jodie Foster",
+                "role": "Actress"
+            },
+            {
+                "name": "Anthony Hopkins",
+                "role": "Actor"
+            },
+            {
+                "name": "Lawrence A. Bonney",
+                "role": "Actor"
+            },
+            {
+                "name": "Kasi Lemmons",
+                "role": "Actor"
+            }
+        ],
+        "tags": []
+    },
+    {
+        "id": 76759,
+        "name": "Star Wars: Episode IV - A New Hope",
+        "year": 1977,
+        "duration": 121,
+        "releaseDate": {
+            "year": 1977,
+            "month": 5,
+            "day": 25
+        },
+        "rating": 8.6,
+        "summary": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire\u0027s world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_UX67_CR0,0,67,98_AL_.jpg@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ACTION",
+            "ADVENTURE",
+            "FANTASY"
+        ],
+        "crewMembers": [
+            {
+                "name": "George Lucas",
+                "role": "Director"
+            },
+            {
+                "name": "Mark Hamill",
+                "role": "Actor"
+            },
+            {
+                "name": "Harrison Ford",
+                "role": "Actor"
+            },
+            {
+                "name": "Carrie Fisher",
+                "role": "Actress"
+            },
+            {
+                "name": "Alec Guinness",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "ON_TV",
+            "IN_THEATERS"
+        ]
+    },
+    {
+        "id": 56058,
+        "name": "Harakiri",
+        "year": 1962,
+        "duration": 133,
+        "releaseDate": {
+            "year": 1963,
+            "month": 9,
+            "day": 12
+        },
+        "rating": 8.6,
+        "summary": "When a ronin requesting seppuku at a feudal lord\u0027s palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan\u0027s integrity.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ACTION",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Masaki Kobayashi",
+                "role": "Director"
+            },
+            {
+                "name": "Tatsuya Nakadai",
+                "role": "Actor"
+            },
+            {
+                "name": "Akira Ishihama",
+                "role": "Actor"
+            },
+            {
+                "name": "Shima Iwashita",
+                "role": "Actor"
+            },
+            {
+                "name": "Tetsurô Tanba",
+                "role": "Actor"
+            }
+        ],
+        "tags": []
+    },
+    {
+        "id": 47478,
+        "name": "Seven Samurai",
+        "year": 1954,
+        "duration": 207,
+        "releaseDate": {
+            "year": 1956,
+            "month": 7,
+            "day": 3
+        },
+        "rating": 8.6,
+        "summary": "Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ACTION",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Akira Kurosawa",
+                "role": "Director"
+            },
+            {
+                "name": "Toshirô Mifune",
+                "role": "Actor"
+            },
+            {
+                "name": "Takashi Shimura",
+                "role": "Actor"
+            },
+            {
+                "name": "Keiko Tsushima",
+                "role": "Actor"
+            },
+            {
+                "name": "Yukiko Shimazaki",
+                "role": "Actor"
+            }
+        ],
+        "tags": []
+    },
+    {
+        "id": 38650,
+        "name": "It\u0027s a Wonderful Life",
+        "year": 1946,
+        "duration": 130,
+        "releaseDate": {
+            "year": 1946,
+            "month": 12,
+            "day": 20
+        },
+        "rating": 8.6,
+        "summary": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "DRAMA",
+            "FANTASY"
+        ],
+        "crewMembers": [
+            {
+                "name": "Frank Capra",
+                "role": "Director"
+            },
+            {
+                "name": "James Stewart",
+                "role": "Actor"
+            },
+            {
+                "name": "Donna Reed",
+                "role": "Actress"
+            },
+            {
+                "name": "Lionel Barrymore",
+                "role": "Actor"
+            },
+            {
+                "name": "Thomas Mitchell",
+                "role": "Actor"
+            }
+        ],
+        "tags": []
+    },
+    {
+        "id": 6751668,
+        "name": "Parasite",
+        "year": 2019,
+        "duration": 132,
+        "releaseDate": {
+            "year": 2019,
+            "month": 8,
+            "day": 30
+        },
+        "rating": 8.5,
+        "summary": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "DRAMA",
+            "THRILLER"
+        ],
+        "crewMembers": [
+            {
+                "name": "Bong Joon Ho",
+                "role": "Director"
+            },
+            {
+                "name": "Song Kang-ho",
+                "role": "Actor"
+            },
+            {
+                "name": "Lee Sun-kyun",
+                "role": "Actor"
+            },
+            {
+                "name": "Cho Yeo-jeong",
+                "role": "Actor"
+            },
+            {
+                "name": "Choi Woo-sik",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "FOR_RENT",
+            "IN_THEATERS"
+        ]
+    },
+    {
+        "id": 2582802,
+        "name": "Whiplash",
+        "year": 2014,
+        "duration": 106,
+        "releaseDate": {
+            "year": 2014,
+            "month": 1,
+            "day": 16
+        },
+        "rating": 8.5,
+        "summary": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student\u0027s potential.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Damien Chazelle",
+                "role": "Director"
+            },
+            {
+                "name": "Miles Teller",
+                "role": "Actor"
+            },
+            {
+                "name": "J.K. Simmons",
+                "role": "Actor"
+            },
+            {
+                "name": "Melissa Benoist",
+                "role": "Actress"
+            },
+            {
+                "name": "Paul Reiser",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "ON_TV",
+            "FOR_RENT",
+            "IN_THEATERS",
+            "TRENDING_THIS_WEEK"
+        ]
+    },
+    {
+        "id": 1675434,
+        "name": "The Intouchables",
+        "year": 2011,
+        "duration": 112,
+        "releaseDate": {
+            "year": 2012,
+            "month": 3,
+            "day": 1
+        },
+        "rating": 8.5,
+        "summary": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "COMEDY",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Olivier Nakache",
+                "role": "Director"
+            },
+            {
+                "name": "Éric Toledano",
+                "role": "Actor"
+            },
+            {
+                "name": "François Cluzet",
+                "role": "Actor"
+            },
+            {
+                "name": "Omar Sy",
+                "role": "Actor"
+            },
+            {
+                "name": "Anne Le Ny",
+                "role": "Actress"
+            },
+            {
+                "name": "Audrey Fleurot",
+                "role": "Actress"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "FOR_RENT"
+        ]
+    },
+    {
+        "id": 482571,
+        "name": "The Prestige",
+        "year": 2006,
+        "duration": 130,
+        "releaseDate": {
+            "year": 2006,
+            "month": 10,
+            "day": 17
+        },
+        "rating": 8.5,
+        "summary": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_UX67_CR0,0,67,98_AL_.jpg@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "DRAMA",
+            "SCIENCE_FICTION"
+        ],
+        "crewMembers": [
+            {
+                "name": "Christopher Nolan",
+                "role": "Director"
+            },
+            {
+                "name": "Christian Bale",
+                "role": "Actor"
+            },
+            {
+                "name": "Hugh Jackman",
+                "role": "Actor"
+            },
+            {
+                "name": "Scarlett Johansson",
+                "role": "Actress"
+            },
+            {
+                "name": "Michael Caine",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "ON_TV",
+            "FOR_RENT"
+        ]
+    },
+    {
+        "id": 407887,
+        "name": "The Departed",
+        "year": 2006,
+        "duration": 151,
+        "releaseDate": {
+            "year": 2006,
+            "month": 9,
+            "day": 26
+        },
+        "rating": 8.5,
+        "summary": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_UX67_CR0,0,67,98_AL_.jpg@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "CRIME",
+            "DRAMA",
+            "THRILLER"
+        ],
+        "crewMembers": [
+            {
+                "name": "Martin Scorsese",
+                "role": "Director"
+            },
+            {
+                "name": "Leonardo DiCaprio",
+                "role": "Actor"
+            },
+            {
+                "name": "Matt Damon",
+                "role": "Actor"
+            },
+            {
+                "name": "Jack Nicholson",
+                "role": "Actor"
+            },
+            {
+                "name": "Mark Wahlberg",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "ON_TV",
+            "IN_THEATERS",
+            "TRENDING_THIS_WEEK"
+        ]
+    },
+    {
+        "id": 253474,
+        "name": "The Pianist",
+        "year": 2002,
+        "duration": 150,
+        "releaseDate": {
+            "year": 2002,
+            "month": 12,
+            "day": 4
+        },
+        "rating": 8.5,
+        "summary": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Roman Polanski",
+                "role": "Director"
+            },
+            {
+                "name": "Adrien Brody",
+                "role": "Actor"
+            },
+            {
+                "name": "Thomas Kretschmann",
+                "role": "Actor"
+            },
+            {
+                "name": "Frank Finlay",
+                "role": "Actor"
+            },
+            {
+                "name": "Emilia Fox",
+                "role": "Actress"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "ON_TV",
+            "IN_THEATERS",
+            "TRENDING_THIS_WEEK"
+        ]
+    },
+    {
+        "id": 172495,
+        "name": "Gladiator",
+        "year": 2000,
+        "duration": 155,
+        "releaseDate": {
+            "year": 2000,
+            "month": 5,
+            "day": 1
+        },
+        "rating": 8.5,
+        "summary": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ACTION",
+            "ADVENTURE",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Ridley Scott",
+                "role": "Director"
+            },
+            {
+                "name": "Russell Crowe",
+                "role": "Actor"
+            },
+            {
+                "name": "Joaquin Phoenix",
+                "role": "Actor"
+            },
+            {
+                "name": "Connie Nielsen",
+                "role": "Actress"
+            },
+            {
+                "name": "Oliver Reed",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "TRENDING_TODAY"
+        ]
+    },
+    {
+        "id": 120586,
+        "name": "American History X",
+        "year": 1998,
+        "duration": 119,
+        "releaseDate": {
+            "year": 1998,
+            "month": 10,
+            "day": 30
+        },
+        "rating": 8.5,
+        "summary": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "CRIME",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Tony Kaye",
+                "role": "Director"
+            },
+            {
+                "name": "Edward Norton",
+                "role": "Actor"
+            },
+            {
+                "name": "Edward Furlong",
+                "role": "Actor"
+            },
+            {
+                "name": "Beverly D\u0027Angelo",
+                "role": "Actor"
+            },
+            {
+                "name": "Jennifer Lien",
+                "role": "Actress"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "ON_TV",
+            "FOR_RENT"
+        ]
+    },
+    {
+        "id": 114814,
+        "name": "The Usual Suspects",
+        "year": 1995,
+        "duration": 106,
+        "releaseDate": {
+            "year": 1995,
+            "month": 1,
+            "day": 25
+        },
+        "rating": 8.5,
+        "summary": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "CRIME",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Bryan Singer",
+                "role": "Director"
+            },
+            {
+                "name": "Kevin Spacey",
+                "role": "Actor"
+            },
+            {
+                "name": "Gabriel Byrne",
+                "role": "Actor"
+            },
+            {
+                "name": "Chazz Palminteri",
+                "role": "Actor"
+            },
+            {
+                "name": "Stephen Baldwin",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "ON_TV",
+            "IN_THEATERS",
+            "TRENDING_THIS_WEEK"
+        ]
+    },
+    {
+        "id": 110413,
+        "name": "Léon: The Professional",
+        "year": 1994,
+        "duration": 110,
+        "releaseDate": {
+            "year": 1994,
+            "month": 11,
+            "day": 18
+        },
+        "rating": 8.5,
+        "summary": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin\u0027s trade.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ACTION",
+            "CRIME",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Luc Besson",
+                "role": "Director"
+            },
+            {
+                "name": "Jean Reno",
+                "role": "Actor"
+            },
+            {
+                "name": "Gary Oldman",
+                "role": "Actor"
+            },
+            {
+                "name": "Natalie Portman",
+                "role": "Actress"
+            },
+            {
+                "name": "Danny Aiello",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "ON_TV",
+            "FOR_RENT",
+            "IN_THEATERS",
+            "TRENDING_THIS_WEEK"
+        ]
+    },
+    {
+        "id": 110357,
+        "name": "The Lion King",
+        "year": 1994,
+        "duration": 88,
+        "releaseDate": {
+            "year": 1994,
+            "month": 6,
+            "day": 12
+        },
+        "rating": 8.5,
+        "summary": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ADVENTURE",
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Roger Allers",
+                "role": "Director"
+            },
+            {
+                "name": "Rob Minkoff",
+                "role": "Actor"
+            },
+            {
+                "name": "Matthew Broderick",
+                "role": "Actor"
+            },
+            {
+                "name": "Jeremy Irons",
+                "role": "Actor"
+            },
+            {
+                "name": "James Earl Jones",
+                "role": "Actor"
+            },
+            {
+                "name": "Whoopi Goldberg",
+                "role": "Actress"
+            }
+        ],
+        "tags": [
+            "ON_TV",
+            "FOR_RENT"
+        ]
+    },
+    {
+        "id": 95765,
+        "name": "Cinema Paradiso",
+        "year": 1988,
+        "duration": 155,
+        "releaseDate": {
+            "year": 1990,
+            "month": 2,
+            "day": 2
+        },
+        "rating": 8.5,
+        "summary": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema\u0027s projectionist.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "DRAMA",
+            "ROMANCE"
+        ],
+        "crewMembers": [
+            {
+                "name": "Giuseppe Tornatore",
+                "role": "Director"
+            },
+            {
+                "name": "Philippe Noiret",
+                "role": "Actor"
+            },
+            {
+                "name": "Enzo Cannavale",
+                "role": "Actor"
+            },
+            {
+                "name": "Antonella Attili",
+                "role": "Actress"
+            },
+            {
+                "name": "Isa Danieli",
+                "role": "Actress"
+            }
+        ],
+        "tags": [
+            "ON_TV",
+            "IN_THEATERS"
+        ]
+    },
+    {
+        "id": 95327,
+        "name": "Grave of the Fireflies",
+        "year": 1988,
+        "duration": 89,
+        "releaseDate": {
+            "year": 1989,
+            "month": 7,
+            "day": 26
+        },
+        "rating": 8.5,
+        "summary": "A young boy and his little sister struggle to survive in Japan during World War II.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Isao Takahata",
+                "role": "Director"
+            },
+            {
+                "name": "Tsutomu Tatsumi",
+                "role": "Actor"
+            },
+            {
+                "name": "Ayano Shiraishi",
+                "role": "Actor"
+            },
+            {
+                "name": "Akemi Yamaguchi",
+                "role": "Actor"
+            },
+            {
+                "name": "Yoshiko Shinohara",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "IN_THEATERS"
+        ]
+    },
+    {
+        "id": 88763,
+        "name": "Back to the Future",
+        "year": 1985,
+        "duration": 116,
+        "releaseDate": {
+            "year": 1985,
+            "month": 7,
+            "day": 3
+        },
+        "rating": 8.5,
+        "summary": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "ADVENTURE",
+            "COMEDY",
+            "SCIENCE_FICTION"
+        ],
+        "crewMembers": [
+            {
+                "name": "Robert Zemeckis",
+                "role": "Director"
+            },
+            {
+                "name": "Michael J. Fox",
+                "role": "Actor"
+            },
+            {
+                "name": "Christopher Lloyd",
+                "role": "Actor"
+            },
+            {
+                "name": "Lea Thompson",
+                "role": "Actress"
+            },
+            {
+                "name": "Crispin Glover",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "ON_TV",
+            "IN_THEATERS"
+        ]
+    },
+    {
+        "id": 78788,
+        "name": "Apocalypse Now",
+        "year": 1979,
+        "duration": 147,
+        "releaseDate": {
+            "year": 1979,
+            "month": 8,
+            "day": 15
+        },
+        "rating": 8.5,
+        "summary": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "DRAMA"
+        ],
+        "crewMembers": [
+            {
+                "name": "Francis Ford Coppola",
+                "role": "Director"
+            },
+            {
+                "name": "Martin Sheen",
+                "role": "Actor"
+            },
+            {
+                "name": "Marlon Brando",
+                "role": "Actor"
+            },
+            {
+                "name": "Robert Duvall",
+                "role": "Actor"
+            },
+            {
+                "name": "Frederic Forrest",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "STREAMING",
+            "TV_SHOW",
+            "TRENDING_THIS_WEEK"
+        ]
+    },
+    {
+        "id": 78748,
+        "name": "Alien",
+        "year": 1979,
+        "duration": 117,
+        "releaseDate": {
+            "year": 1979,
+            "month": 5,
+            "day": 25
+        },
+        "rating": 8.5,
+        "summary": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "SCIENCE_FICTION"
+        ],
+        "crewMembers": [
+            {
+                "name": "Ridley Scott",
+                "role": "Director"
+            },
+            {
+                "name": "Sigourney Weaver",
+                "role": "Actress"
+            },
+            {
+                "name": "Tom Skerritt",
+                "role": "Actor"
+            },
+            {
+                "name": "John Hurt",
+                "role": "Actor"
+            },
+            {
+                "name": "Veronica Cartwright",
+                "role": "Actress"
+            }
+        ],
+        "tags": [
+            "IN_THEATERS"
+        ]
+    },
+    {
+        "id": 64116,
+        "name": "Once Upon a Time in the West",
+        "year": 1968,
+        "duration": 165,
+        "releaseDate": {
+            "year": 1969,
+            "month": 5,
+            "day": 28
+        },
+        "rating": 8.5,
+        "summary": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "WESTERN"
+        ],
+        "crewMembers": [
+            {
+                "name": "Sergio Leone",
+                "role": "Director"
+            },
+            {
+                "name": "Henry Fonda",
+                "role": "Actor"
+            },
+            {
+                "name": "Charles Bronson",
+                "role": "Actor"
+            },
+            {
+                "name": "Claudia Cardinale",
+                "role": "Actress"
+            },
+            {
+                "name": "Jason Robards",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "IN_THEATERS",
+            "MOVIE"
+        ]
+    },
+    {
+        "id": 54215,
+        "name": "Psycho",
+        "year": 1960,
+        "duration": 109,
+        "releaseDate": {
+            "year": 1960,
+            "month": 6,
+            "day": 16
+        },
+        "rating": 8.5,
+        "summary": "A Phoenix secretary embezzles $40,000 from her employer\u0027s client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "THRILLER"
+        ],
+        "crewMembers": [
+            {
+                "name": "Alfred Hitchcock",
+                "role": "Director"
+            },
+            {
+                "name": "Anthony Perkins",
+                "role": "Actor"
+            },
+            {
+                "name": "Janet Leigh",
+                "role": "Actress"
+            },
+            {
+                "name": "Vera Miles",
+                "role": "Actress"
+            },
+            {
+                "name": "John Gavin",
+                "role": "Actor"
+            }
+        ],
+        "tags": [
+            "ON_TV",
+            "IN_THEATERS"
+        ]
+    },
+    {
+        "id": 47396,
+        "name": "Rear Window",
+        "year": 1954,
+        "duration": 112,
+        "releaseDate": {
+            "year": 1954,
+            "month": 8,
+            "day": 4
+        },
+        "rating": 8.5,
+        "summary": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism of his fashion-model girlfriend.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "categories": [
+            "THRILLER"
+        ],
+        "crewMembers": [
+            {
+                "name": "Alfred Hitchcock",
+                "role": "Director"
+            },
+            {
+                "name": "James Stewart",
+                "role": "Actor"
+            },
+            {
+                "name": "Grace Kelly",
+                "role": "Actress"
+            },
+            {
+                "name": "Wendell Corey",
+                "role": "Actor"
+            },
+            {
+                "name": "Thelma Ritter",
+                "role": "Actress"
+            }
+        ],
+        "tags": []
+    }
+]
